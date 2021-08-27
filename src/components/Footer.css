@@ -1,0 +1,22 @@
+/* .Footer {
+    position: sticky;
+    width: 100%;
+    background-color:rgb(206, 199, 194);
+   right:0;
+    color: black;
+    text-align: center; */
+  .Footer
+  {
+      height: 50px;
+      background-color: rgb(206,199,194);
+      position:absolute;
+      left: 0;
+      right: 0;
+      bottom:0;
+      width: 100%;
+      text-align: center;
+  }
+  .style{
+    color: 'black';
+    background-color: "#80e5ff";
+  }
