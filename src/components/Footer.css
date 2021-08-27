@@ -9,7 +9,7 @@
   {
       height: 50px;
       background-color: rgb(206,199,194);
-      position:absolute;
+      position:fixed;
       left: 0;
       right: 0;
       bottom:0;
